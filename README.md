@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @y192
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning at Gibson Youth Academy
-- 📫 How to reach me (+251955336922)
+
 
 
 <!---
